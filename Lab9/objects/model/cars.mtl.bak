@@ -1,0 +1,515 @@
+# Blender MTL File: 'cars.blend'
+# Material Count: 44
+
+newmtl Buildings
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Simina\\Desktop\\models\\tiny_city\\textures\\Buildings_normal.png
+map_Kd C:\\Users\\Simina\\Desktop\\models\\tiny_city\\textures\\Buildings_baseColor.jpeg
+
+newmtl Ground
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Simina\\Desktop\\models\\tiny_city\\textures\\Ground_normal.png
+map_Kd C:\\Users\\Simina\\Desktop\\models\\tiny_city\\textures\\Ground_baseColor.jpeg
+
+newmtl Lamborginhi_base_phong
+Ns 425.480399
+Ka 0.682689 0.682689 0.682689
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\Simina\\Desktop\\models\\lambo_police\\textures\\Lamborginhi_base_phong_baseColor.jpeg
+
+newmtl Lamborginhi_glass_phong
+Ns 508.497777
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.676609
+illum 9
+
+newmtl Material.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Simina\\Desktop\\models\\1920_gangster\\textures\\HEADFORPLACEMENT.png
+
+newmtl Material.035
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Simina\\Desktop\\models\\1920_gangster\\textures\\BC.png
+
+newmtl Material.036
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Simina\\Desktop\\models\\ruined_cars\\textures\\sedan_d4.png
+
+newmtl Material.037
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Simina\\Desktop\\models\\ruined_cars\\textures\\sedan_d2.png
+
+newmtl Material.038
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Simina\\Desktop\\models\\ruined_cars\\textures\\sedan_d3.png
+
+newmtl Material.039
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Simina\\Desktop\\models\\ruined_cars\\textures\\sedan_d.png
+
+newmtl Material.041
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Simina\\Desktop\\models\\military_men\\textures\\dif_optimised.jpeg
+
+newmtl Material.045
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Simina\\Desktop\\models\\e7_police\\textures\\E7Police_d.png
+
+newmtl Material.048
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Simina\\Desktop\\models\\ford_ranger_polcie\\textures\\Ford_Raptor_BASE.png
+
+newmtl Material.049
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Simina\\Desktop\\models\\thief\\V3 textures\\normal.png
+map_Ns C:\\Users\\Simina\\Desktop\\models\\thief\\V3 textures\\Roughness.png
+refl C:\\Users\\Simina\\Desktop\\models\\thief\\V3 textures\\Metalness.png
+
+newmtl Material.050
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Simina\\Desktop\\models\\thief\\V3 textures\\ALBEDO.png
+
+newmtl Material_#23
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Simina\\Desktop\\models\\nu_stiu_inca\\Material _23_Base_Color.png
+
+newmtl RIMMUSCLE_01
+Ns 105.560650
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Simina\\Desktop\\models\\muscle_car\\source\\Textures\\RIMMUSCLE_01_NRM.png
+map_Kd C:\\Users\\Simina\\Desktop\\models\\muscle_car\\textures\\RIMMUSCLE_01_DIF.png
+
+newmtl T1.003
+Ns 0.000000
+Ka 0.741497 0.741497 0.741497
+Kd 0.584314 0.584314 0.584314
+Ks 0.108844 0.108844 0.108844
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 -o 0.000000 -1.000000 0.000000 D:\\For Turbo Squid Sell\\Soldier\\source\\tex\\Tex_0013_7.PNG
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Lower.png
+
+newmtl T1.004
+Ns 0.000000
+Ka 0.741497 0.741497 0.741497
+Kd 0.584314 0.584314 0.584314
+Ks 0.108844 0.108844 0.108844
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 -o 0.000000 -1.000000 0.000000 D:\\For Turbo Squid Sell\\Soldier\\source\\tex\\Tex_0013_7.PNG
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Lower.png
+
+newmtl T1.005
+Ns 0.000000
+Ka 0.741497 0.741497 0.741497
+Kd 0.584314 0.584314 0.584314
+Ks 0.108844 0.108844 0.108844
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 -o 0.000000 -1.000000 0.000000 D:\\For Turbo Squid Sell\\Soldier\\source\\tex\\Tex_0013_7.PNG
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Lower.png
+
+newmtl T1.006
+Ns 0.000000
+Ka 0.741497 0.741497 0.741497
+Kd 0.584314 0.584314 0.584314
+Ks 0.108844 0.108844 0.108844
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 -o 0.000000 -1.000000 0.000000 D:\\For Turbo Squid Sell\\Soldier\\source\\tex\\Tex_0013_7.PNG
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Lower.png
+
+newmtl T1.007
+Ns 0.000000
+Ka 0.741497 0.741497 0.741497
+Kd 0.584314 0.584314 0.584314
+Ks 0.108844 0.108844 0.108844
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 -o 0.000000 -1.000000 0.000000 D:\\For Turbo Squid Sell\\Soldier\\source\\tex\\Tex_0013_7.PNG
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Lower.png
+
+newmtl T2.003
+Ns 0.000000
+Ka 0.611087 0.611087 0.611087
+Kd 0.584314 0.584314 0.584314
+Ks 0.391156 0.391156 0.391156
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 -o 0.000000 -1.000000 0.000000 D:\\For Turbo Squid Sell\\Soldier\\source\\tex\\Tex_0011_7.PNG
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Body.png
+
+newmtl T2.004
+Ns 0.000000
+Ka 0.611087 0.611087 0.611087
+Kd 0.584314 0.584314 0.584314
+Ks 0.391156 0.391156 0.391156
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 -o 0.000000 -1.000000 0.000000 D:\\For Turbo Squid Sell\\Soldier\\source\\tex\\Tex_0011_7.PNG
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Body.png
+
+newmtl T2.005
+Ns 0.000000
+Ka 0.611087 0.611087 0.611087
+Kd 0.584314 0.584314 0.584314
+Ks 0.391156 0.391156 0.391156
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 -o 0.000000 -1.000000 0.000000 D:\\For Turbo Squid Sell\\Soldier\\source\\tex\\Tex_0011_7.PNG
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Body.png
+
+newmtl T2.006
+Ns 0.000000
+Ka 0.611087 0.611087 0.611087
+Kd 0.584314 0.584314 0.584314
+Ks 0.391156 0.391156 0.391156
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 -o 0.000000 -1.000000 0.000000 D:\\For Turbo Squid Sell\\Soldier\\source\\tex\\Tex_0011_7.PNG
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Body.png
+
+newmtl T2.007
+Ns 0.000000
+Ka 0.611087 0.611087 0.611087
+Kd 0.584314 0.584314 0.584314
+Ks 0.391156 0.391156 0.391156
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 -o 0.000000 -1.000000 0.000000 D:\\For Turbo Squid Sell\\Soldier\\source\\tex\\Tex_0011_7.PNG
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Body.png
+
+newmtl T3
+Ns 0.000000
+Ka 0.265306 0.265306 0.265306
+Kd 0.584314 0.584314 0.584314
+Ks 0.452381 0.452381 0.452381
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Tex_0010_1.PNG
+map_d -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Tex_0010_1.PNG
+
+newmtl T3.001
+Ns 0.000000
+Ka 0.265306 0.265306 0.265306
+Kd 0.584314 0.584314 0.584314
+Ks 0.452381 0.452381 0.452381
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Tex_0010_1.PNG
+map_d -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Tex_0010_1.PNG
+
+newmtl T3.003
+Ns 0.000000
+Ka 0.265306 0.265306 0.265306
+Kd 0.584314 0.584314 0.584314
+Ks 0.452381 0.452381 0.452381
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Tex_0010_1.PNG
+map_d -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Tex_0010_1.PNG
+
+newmtl T3.004
+Ns 0.000000
+Ka 0.265306 0.265306 0.265306
+Kd 0.584314 0.584314 0.584314
+Ks 0.452381 0.452381 0.452381
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Tex_0010_1.PNG
+map_d -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Tex_0010_1.PNG
+
+newmtl T3.005
+Ns 0.000000
+Ka 0.265306 0.265306 0.265306
+Kd 0.584314 0.584314 0.584314
+Ks 0.452381 0.452381 0.452381
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Tex_0010_1.PNG
+map_d -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Tex_0010_1.PNG
+
+newmtl T3.006
+Ns 0.000000
+Ka 0.265306 0.265306 0.265306
+Kd 0.584314 0.584314 0.584314
+Ks 0.452381 0.452381 0.452381
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Tex_0010_1.PNG
+map_d -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Tex_0010_1.PNG
+
+newmtl T3.007
+Ns 0.000000
+Ka 0.265306 0.265306 0.265306
+Kd 0.584314 0.584314 0.584314
+Ks 0.452381 0.452381 0.452381
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Tex_0010_1.PNG
+map_d -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Tex_0010_1.PNG
+
+newmtl T4.003
+Ns 0.000000
+Ka 0.367347 0.367347 0.367347
+Kd 0.584314 0.584314 0.584314
+Ks 0.234168 0.234168 0.234168
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 -o 0.000000 -1.000000 0.000000 D:\\For Turbo Squid Sell\\Soldier\\textures\\Tex_0008_7.PNG
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Head.png
+
+newmtl T4.004
+Ns 0.000000
+Ka 0.367347 0.367347 0.367347
+Kd 0.584314 0.584314 0.584314
+Ks 0.234168 0.234168 0.234168
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 -o 0.000000 -1.000000 0.000000 D:\\For Turbo Squid Sell\\Soldier\\textures\\Tex_0008_7.PNG
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Head.png
+
+newmtl T4.005
+Ns 0.000000
+Ka 0.367347 0.367347 0.367347
+Kd 0.584314 0.584314 0.584314
+Ks 0.234168 0.234168 0.234168
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 -o 0.000000 -1.000000 0.000000 D:\\For Turbo Squid Sell\\Soldier\\textures\\Tex_0008_7.PNG
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Head.png
+
+newmtl T4.006
+Ns 0.000000
+Ka 0.367347 0.367347 0.367347
+Kd 0.584314 0.584314 0.584314
+Ks 0.234168 0.234168 0.234168
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 -o 0.000000 -1.000000 0.000000 D:\\For Turbo Squid Sell\\Soldier\\textures\\Tex_0008_7.PNG
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Head.png
+
+newmtl T4.007
+Ns 0.000000
+Ka 0.367347 0.367347 0.367347
+Kd 0.584314 0.584314 0.584314
+Ks 0.234168 0.234168 0.234168
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.200000 -o 0.000000 -1.000000 0.000000 D:\\For Turbo Squid Sell\\Soldier\\textures\\Tex_0008_7.PNG
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Simina\\Desktop\\models\\military\\Format\\Head.png
+
+newmtl UCB_GLASS_CLEAN.001
+Ns 113.137072
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.310000
+illum 6
+map_Kd C:\\Users\\Simina\\Desktop\\models\\muscle_car\\textures\\UCB_GLASS_CLEAN_dif.png
+
+newmtl body
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.301961 0.301961 0.301961
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Simina\\Desktop\\models\\muscle_car\\textures\\UCB_BOTTOM_DIF.png
+
+newmtl cb_car
+Ns 32.490102
+Ka 1.000000 1.000000 1.000000
+Kd 0.066667 0.066667 0.066667
+Ks 0.380000 0.380000 0.380000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump D:\\Kouluprojektit\\3D\\Vehicle\\VehicleNormalsMap.tga
+map_Kd C:\\Users\\Simina\\Desktop\\models\\cyberpunk_car\\textures\\Vehicle_basecolor.png
+
+newmtl gun.001
+Ns 338.512341
+Ka 0.936364 0.936364 0.936364
+Kd 0.110656 0.110656 0.110656
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Manoel\\Desktop\\Clone Fortune\\gun_normal.png
+map_Ns C:\\Users\\Manoel\\Desktop\\Clone Fortune\\gun_roughness.png
+refl C:\\Users\\Manoel\\Desktop\\Clone Fortune\\gun_metallic.png
+
+newmtl wire_087224198
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Kd 0.341200 0.878400 0.776500
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Simina\\Desktop\\models\\ford_taxi\\textures\\Mondeo_Dif.png
